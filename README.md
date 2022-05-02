@@ -1,0 +1,1 @@
+Huddle : This is a miniaml landing page of a freelance client.
